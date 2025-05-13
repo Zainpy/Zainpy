@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Zainpy
-- Currently developping a web application using html, css and javascript with node.js and mySQL
+I'm a CS student who is passionate about developing websites and robotics. I've built websites using html css javascript and MySQL and currently working on a marketable website using frameworks.
+Hit me up if you want to become friends!!
 - discord @Zain#0489
 
 <!---
