@@ -15,8 +15,13 @@ I have a huge interest in coding 🧑‍💻 and problem solving💡!
 </div>
 
 ### What i do📝:
-Web Development : - using MySQL and Apache
-                  - using MERN Stack
+#### Web Development : 
+- MySQL and Apache
+- MERN Stack
+
+#### Robotics: 
+- IoT integration using ESP32 DevKit 
+
 
 ### Currently working on 🧐: 
 - marketable website using MERN stack.
