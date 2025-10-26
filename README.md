@@ -1,7 +1,7 @@
 # Zain Kadin
-👋 Hi, Zain Kadin here! I am from International Islamic University Malaysia taking Bachelor in Computer Science.
+👋 Hi, Zain Kadin here! I am a 1st year International Islamic University Malaysia student majoring in Bachelor of Computer Science. I am particularly interested in Web & App Development and have been developing skills in Web Development through self-learn and workshops. I am eager to learn more about the industry and connect with others.
 
-I have a huge interest in coding 🧑‍💻 and problem solving💡!
+I also do Robotics as well 🤖!
 
 ### My tools
 <div display="flex">
