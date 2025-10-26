@@ -1,4 +1,4 @@
-# Zainpy
+# Zain Kadin
 👋 Hi, Zain Kadin here! I am from International Islamic University Malaysia taking Bachelor in Computer Science.
 
 I have a huge interest in coding 🧑‍💻 and problem solving💡!
