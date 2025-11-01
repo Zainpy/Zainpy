@@ -24,7 +24,7 @@ I also do Robotics as well 🤖!
 
 
 ### Currently working on 🧐: 
-- marketable website using MERN stack.
+- Learning .NET and backend.
 - searching for summer internship 2026 🔍
 
 discord @Zain#0489
